@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vishwakarmaj.github.io/csb-ge8vle/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vishwakarmaj.github.io/csb-ge8vle/static/js/main.7506fea8.chunk.js",
+    "main.js.map": "https://vishwakarmaj.github.io/csb-ge8vle/static/js/main.7506fea8.chunk.js.map",
+    "runtime-main.js": "https://vishwakarmaj.github.io/csb-ge8vle/static/js/runtime-main.25b8c8f8.js",
+    "runtime-main.js.map": "https://vishwakarmaj.github.io/csb-ge8vle/static/js/runtime-main.25b8c8f8.js.map",
+    "static/js/2.de2a2d9b.chunk.js": "https://vishwakarmaj.github.io/csb-ge8vle/static/js/2.de2a2d9b.chunk.js",
+    "static/js/2.de2a2d9b.chunk.js.map": "https://vishwakarmaj.github.io/csb-ge8vle/static/js/2.de2a2d9b.chunk.js.map",
+    "index.html": "https://vishwakarmaj.github.io/csb-ge8vle/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vishwakarmaj.github.io/csb-ge8vle/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.de2a2d9b.chunk.js.LICENSE.txt": "https://vishwakarmaj.github.io/csb-ge8vle/static/js/2.de2a2d9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25b8c8f8.js",
+    "static/js/2.de2a2d9b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7506fea8.chunk.js"
+  ]
+}
